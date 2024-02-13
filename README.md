@@ -14,4 +14,6 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=ArtemMikhalenia&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
