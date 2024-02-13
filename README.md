@@ -52,7 +52,14 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ---
+### My projects
 
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Строка 1, ячейка 1 | Строка 1, ячейка 2 | Строка 1, ячейка 3 |
+| Строка 2, ячейка 1 | Строка 2, ячейка 2 | Строка 2, ячейка 3 |
+
+---
 ### Education
 
 * Website Development with HTML, CSS & JavaScript at IT Academy (completed)
