@@ -61,19 +61,18 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia&layout=compact)
 
-
-###Education
-### Education
 ---
+
+### Education
+
 * Website Development with HTML, CSS & JavaScript (completed)
 ![Website Development with HTML, CSS & JavaScript](./images/Fd1.jpg)
-@@ -47,7 +47,7 @@ function isolateIt(arr) {
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 2» (in progress)
-
-###Languages
-### Languages
+  
 ---
+### Languages
+
 * English - B2
 * Russian - Native
 * Belarusian - Native
