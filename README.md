@@ -21,12 +21,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76113zjwt2pbs5wfzut9kyjcpl51ugcdfiewznxiarwq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300"/>
-</div>
+### Contacts
+---
+* ***Location:*** Minsk, Belarus
+* ***Phone:*** +375 29 761-85-83
+* ***Email:*** goldtree3000@gmail.com
+* ***Telegram:*** [artemmikhalenia](https://t.me/artemmikhalenia)
+* ***GitHub:*** [ArtemMikhalenia](https://github.com/ArtemMikhalenia)
 
 ### :man_technologist: About Me :
-I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus. I love challenges, which is why I decided to become part of the IT community. I am a dynamic and adaptable individual with a passion for creativity and problem-solving. I believe that teamwork is the power that helps us achieve great goals.
+
 - :telescope: Currently I’m working as a Team Lead at consulting international company Kept.
 
 - :seedling: Exploring Technical Content Writing.
@@ -55,5 +60,22 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMikhalenia&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia&layout=compact)
+
+
+###Education
+### Education
+---
+* Website Development with HTML, CSS & JavaScript (completed)
+![Website Development with HTML, CSS & JavaScript](./images/Fd1.jpg)
+@@ -47,7 +47,7 @@ function isolateIt(arr) {
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 2» (in progress)
+
+###Languages
+### Languages
+---
+* English - B2
+* Russian - Native
+* Belarusian - Native
 
 
