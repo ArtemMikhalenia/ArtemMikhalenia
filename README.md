@@ -54,10 +54,10 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 ---
 ### My projects
 
-| Заголовок 1 | Заголовок 2 | Заголовок 3 |
-|-------------|-------------|-------------|
-| Строка 1, ячейка 1 | Строка 1, ячейка 2 | Строка 1, ячейка 3 |
-| Строка 2, ячейка 1 | Строка 2, ячейка 2 | Строка 2, ячейка 3 |
+| Project | Deploy |
+|-------------|-------------|
+| Nonograms | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/nonograms) |
+|  |  |
 
 ---
 ### Education
