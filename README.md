@@ -59,6 +59,15 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 | Nonograms | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/nonograms) |
 | Hangman | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/hangman) |
 | Coffee-House | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/coffee-house) |
+| Rey Negro | [Link](https://artemmikhalenia.github.io/Site_Rey_Negro/) |
+| Personal Trainer | [Link](https://artemmikhalenia.github.io/FINAL_PROJECT_JS_PERSONAL_TRAINER/) |
+| Portfolio | [Link](https://artemmikhalenia.github.io/Site_Portfolio/) |
+| Boosted | [Link](https://artemmikhalenia.github.io/Site_BOOSTED/) |
+| Azur Life | [Link](https://artemmikhalenia.github.io/FINAL_PROJECT/) |
+| E-commerce | [Link](https://artemmikhalenia.github.io/E-commerce_project3/) |
+| Cupcakes | [Link](https://artemmikhalenia.github.io/Site_Cupcakes/) |
+| Skillz | [Link](https://artemmikhalenia.github.io/Site_Skillz/) |
+| Avalerian | [Link](https://artemmikhalenia.github.io/Site_Avalerian/) |
 
 ---
 ### Education
