@@ -21,14 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Contacts
----
-* ***Location:*** Minsk, Belarus
-* ***Phone:*** +375 29 761-85-83
-* ***Email:*** goldtree3000@gmail.com
-* ***Telegram:*** [artemmikhalenia](https://t.me/artemmikhalenia)
-* ***GitHub:*** [ArtemMikhalenia](https://github.com/ArtemMikhalenia)
-
 ### :man_technologist: About Me :
 I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus. I love challenges, which is why I decided to become part of the IT community. I am a dynamic and adaptable individual with a passion for creativity and problem-solving. I believe that teamwork is the power that helps us achieve great goals.
 
@@ -38,7 +30,15 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I solve problems on CodeWars, read tech articles, playing computer games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+---
+
+### Contacts
+---
+* ***Location:*** Minsk, Belarus
+* ***Phone:*** +375 29 761-85-83
+* ***Email:*** goldtree3000@gmail.com
+* ***Telegram:*** [artemmikhalenia](https://t.me/artemmikhalenia)
+* ***GitHub:*** [ArtemMikhalenia](https://github.com/ArtemMikhalenia)
 
 ---
 
