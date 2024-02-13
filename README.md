@@ -51,10 +51,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-<div align="center">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMikhalenia&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia&layout=compact)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia&layout=compact)
+
 
