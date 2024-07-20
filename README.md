@@ -76,7 +76,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 * Web Application Development with JavaScript at IT Academy (completed)
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 *  RS Schools Course «JavaScript/Front-end. Stage 1» (completed)
-* RS Schools Course «JavaScript/Front-end. Stage 2» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 2» (completed)
   
 ---
 
