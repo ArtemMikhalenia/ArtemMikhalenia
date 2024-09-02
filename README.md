@@ -57,6 +57,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 | Project | Deploy |
 |-------------|-------------|
+| SwooshStore | [Link](https://swoosh-store.netlify.app/) |
 | Nonograms | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/nonograms) |
 | Hangman | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/hangman) |
 | Coffee-House | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/coffee-house) |
