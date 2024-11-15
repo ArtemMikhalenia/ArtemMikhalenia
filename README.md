@@ -89,9 +89,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 * Belarusian - Native
 
 ### :fire: My Stats :
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMikhalenia&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia)](https://github.com/ArtemMikhalenia/github-readme-stats)
 
 ---
