@@ -89,7 +89,6 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 * Belarusian - Native
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemMikhalenia&langs_count=10)](https://github.com/ArtemMikhalenia/github-readme-stats)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ArtemMikhalenia&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=ArtemMikhalenia&show_icons=true&theme=vision-friendly-dark&hide_border=true"/></a>
