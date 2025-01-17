@@ -60,6 +60,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 | Portfolio | [Link](https://artemmikhalenia.github.io/Site_Portfolio/) |
 | SwooshStore | [Link](https://swoosh-store.netlify.app/) |
 | Nonograms | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/nonograms) |
+| RSS Puzzle | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/rss-puzzle/) |
 | Hangman | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/hangman) |
 | Coffee-House | [Link](https://rolling-scopes-school.github.io/artemmikhalenia-JSFE2023Q4/coffee-house) |
 | Rey Negro | [Link](https://artemmikhalenia.github.io/Site_Rey_Negro/) |
